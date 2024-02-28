@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "esp32_i2c_lcd16x2.h": "c",
+        "i2c.h": "c",
+        "esp_http_server.h": "c"
+    }
+}
